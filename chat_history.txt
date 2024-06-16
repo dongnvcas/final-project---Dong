@@ -1,0 +1,408 @@
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: 
+B.BOT: I did not understand your command
+You: what time
+B.BOT: 10:21:AM
+You: euro 2024
+B.BOT: I did not understand your command
+You: euro
+B.BOT: I did not understand your command
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: what time is it
+B.BOT: 10:28:AM
+B.BOT: It is: None
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: euro 2024
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: euro
+B.BOT: Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere.
+You: euro 2024
+B.BOT: The 2020 UEFA European Football Championship, commonly referred to as UEFA Euro 2020 (stylised as UEFA EURO 2020) or simply Euro 2020, was the 16th UEFA European Championship, the quadrennial international men's football championship of Europe organised by the Union of European Football Associations (UEFA).
+You: usa
+B.BOT: Sorry, I can not find the result
+You: american
+B.BOT: The United States of America (USA or U.S.A.), commonly known as the United States (US or U.S.) or America, is a country primarily located in North America.
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: open youtube
+B.BOT: What should I search sir?
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+You: youtube
+B.BOT: What should I search sir?
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+Boss: open YouTube
+B.BOT: What should I search sir?
+Boss: world
+B.BOT: I did not understand your command
+B.BOT: Please repeat or type the command
+You: world cup
+B.BOT: I did not understand your command
+You: spotify
+B.BOT: What should I play sir?
+Boss: World Cup World Cup
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+Boss: Spotify
+B.BOT: What should I play sir?
+Boss: love song love song
+B.BOT: Playing love song love song on Spotify
+B.BOT: Listening timed out, please try again.
+B.BOT: I did not understand your command
+Boss: goodbye
+B.BOT: What should I search sir?
+Boss: can you buy the council
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: love song
+B.BOT: What should I search sir?
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Europe
+B.BOT: What should I search sir?
+B.BOT: Please repeat or type the command
+Boss: Europe Europe
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: play music
+B.BOT: Playing music on Spotify
+B.BOT: Please repeat or type the command
+You: euro 2024
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: vietnam
+B.BOT: Please repeat or type the command
+Boss: Vietnam
+Boss: Hanoi
+Boss: Hanoi
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: Hanoi
+You: vietnam
+B.BOT: Vietnam,  officially the Socialist Republic of Vietnam (SRV), is a country at the eastern edge of mainland Southeast Asia, with an area of about 331,000 square kilometres (128,000 sq mi) and a population of over 100 million, making it the world's fifteenth-most populous country.
+You: ho chi minh
+You: love
+B.BOT: Sorry, I can not find the result
+You: ho chi minh
+You: bangkok
+B.BOT: Bangkok, officially known in Thai as Krung Thep Maha Nakhon and colloquially as Krung Thep, is the capital and most populous city of Thailand.
+Boss: goodbye
+B.BOT: Sorry, I can not find the result
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: open google
+B.BOT: What should I search sir?
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: open music
+B.BOT: Playing music on Spotify
+Boss: Europe
+B.BOT: Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere.
+B.BOT: I did not understand your command
+You: vietnam
+B.BOT: Vietnam,  officially the Socialist Republic of Vietnam (SRV), is a country at the eastern edge of mainland Southeast Asia, with an area of about 331,000 square kilometres (128,000 sq mi) and a population of over 100 million, making it the world's fifteenth-most populous country.
+B.BOT: I did not understand your command
+Boss: Google search
+B.BOT: What should I search sir?
+Boss: anything
+B.BOT: Here is your anything on Google
+Boss: search Google search anything anything
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+Boss: quit the app
+B.BOT: WhatsApp (officially WhatsApp Messenger) is an instant messaging (IM) and voice-over-IP (VoIP) service owned by technology conglomerate Meta.
+B.BOT: I did not understand your command
+Boss: goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: open YouTube
+B.BOT: What should I search sir?
+Boss: Westlife
+B.BOT: Here is your westlife on YouTube
+You: open music
+B.BOT: Playing music on Spotify
+Boss: Google search
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+Boss: Australia
+B.BOT: Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands.
+B.BOT: I did not understand your command
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: euro 2024
+B.BOT: The 2020 UEFA European Football Championship, commonly referred to as UEFA Euro 2020 (stylised as UEFA EURO 2020) or simply Euro 2020, was the 16th UEFA European Championship, the quadrennial international men's football championship of Europe organised by the Union of European Football Associations (UEFA).
+Boss: can you play music
+B.BOT: Playing music on Spotify
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: what time is it
+B.BOT: 07:53:PM
+B.BOT: Listening timed out, please try again.
+B.BOT: I did not understand your command
+Boss: okay goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: what time is it now
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: what time is it now
+B.BOT: It is:
+B.BOT: 07:57:PM
+Boss: search Google
+B.BOT: What should I search sir?
+Boss: Ho Chi Minh City in Vietnam
+B.BOT: Here is your ho chi minh city in vietnam on Google
+Boss: Ho Chi Minh City in Vietnam
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Ho Chi Minh City in Vietnam
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Vietnam War
+B.BOT: Sorry, I can not find the result
+B.BOT: Please repeat or type the command
+You: war
+B.BOT: War is an intense armed conflict between states, governments, societies, or paramilitary groups such as mercenaries, insurgents, and militias.
+You: vietnam war
+B.BOT: Sorry, I can not find the result
+You: american war
+B.BOT: The American Revolutionary War (April 19, 1775 � September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army.
+Boss: thank you so much goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+B.BOT: Listening timed out, please try again.
+B.BOT: I did not understand your command
+Boss: American War
+B.BOT: The American Revolutionary War (April 19, 1775 � September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army.
+Boss: thank you please quit
+B.BOT: Sorry, I can not find the result
+Boss: okay goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: play music
+B.BOT: Playing music on Spotify
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: quit the app
+B.BOT: Goodbye Sir
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: germany war
+B.BOT: The German Peasants' War, Great Peasants' War or Great Peasants' Revolt (German: Deutscher Bauernkrieg) was a widespread popular revolt in some German-speaking areas in Central Europe from 1524 to 1525.
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: thailand
+B.BOT: Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula.
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: germany war
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: germany war
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: germany war
+B.BOT: The German Peasants' War, Great Peasants' War or Great Peasants' Revolt (German: Deutscher Bauernkrieg) was a widespread popular revolt in some German-speaking areas in Central Europe from 1524 to 1525.
+B.BOT: Good evening Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: germany war
+B.BOT: The German Peasants' War, Great Peasants' War or Great Peasants' Revolt (German: Deutscher Bauernkrieg) was a widespread popular revolt in some German-speaking areas in Central Europe from 1524 to 1525.
+Boss: American War
+B.BOT: The American Revolutionary War (April 19, 1775 � September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army.
+You: thank you. goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: what time is it
+B.BOT: 07:24:AM
+B.BOT: It is: None
+You: goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Europe 2022
+B.BOT: Europe 2020 is a 10-year strategy proposed by the European Commission on 3 March 2010 for advancement of the economy of the European Union.
+Boss: lumos
+B.BOT: Sorry, I can not find the result
+Boss: Harry Potter
+B.BOT: Sorry, I can not find the result
+Boss: Harry Potter
+B.BOT: Sorry, I can not find the result
+Boss: Tumblr doll
+B.BOT: Ashley Allyn Roberts (born September 14, 1981) is an American singer, dancer, and media personality.
+Boss: symptom MTP
+B.BOT: Abortion has been legal in India under various circumstances with the introduction of the Medical Termination of Pregnancy (MTP) Act, 1971.
+Boss: Vietnamese
+B.BOT: Sorry, I can not find the result
+Boss: Vietnam
+B.BOT: Vietnam,  officially the Socialist Republic of Vietnam (SRV), is a country at the eastern edge of mainland Southeast Asia, with an area of about 331,000 square kilometres (128,000 sq mi) and a population of over 100 million, making it the world's fifteenth-most populous country.
+Boss: goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: what are you doing
+B.BOT: "What Are You Doing the Rest of Your Life?" is a song with lyrics written by Alan Bergman and Marilyn Bergman and original music written by Michel Legrand for the 1969 film The Happy Ending, performed by Michael Dees.
+B.BOT: Listening timed out, please try again.
+B.BOT: I did not understand your command
+B.BOT: Please repeat or type the command
+B.BOT: Please repeat or type the command
+You: play music
+B.BOT: Playing music on Spotify
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: play music
+B.BOT: Playing music on Spotify
+Boss: open YouTube open YouTube
+B.BOT: What should I search sir?
+Boss: Westlife
+B.BOT: Here is your westlife on YouTube
+Boss: search Google
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+You: euro cup
+B.BOT: The UEFA European Football Championship, less formally the European Championship and informally the Euros, is the primary association football tournament organised by the Union of European Football Associations (UEFA).
+Boss: okay goodbye
+B.BOT: Goodbye Sir
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: open Google search
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+Boss: please open YouTube
+B.BOT: What should I search sir?
+Boss: Westlife
+B.BOT: Here is your westlife on YouTube
+Boss: please play music
+B.BOT: Playing music on Spotify
+You: vietnam
+B.BOT: Vietnam,  officially the Socialist Republic of Vietnam (SRV), is a country at the eastern edge of mainland Southeast Asia, with an area of about 331,000 square kilometres (128,000 sq mi) and a population of over 100 million, making it the world's fifteenth-most populous country.
+Boss: Ho Chi Minh City
+Boss: Hanoi
+Boss: Ho Chi Minh
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: ho chi minh city
+B.BOT: Ho Chi Minh City (HCMC; Vietnamese: Thành phố Hồ Chí Minh), commonly referred to by its former name Saigon (Vietnamese: Sài Gòn), is the most populous city in Vietnam, with a population of around 10 million in 2023.
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: open YouTube
+B.BOT: What should I search sir?
+Boss: Britney Spears
+B.BOT: Here is your britney spears on YouTube
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: open YouTube
+B.BOT: What should I search sir?
+Boss: how to cook with python
+B.BOT: Here is your how to cook with python on YouTube
+Boss: search Google
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+Boss: can you play music
+B.BOT: Playing music on Spotify
+You: ho chi minh city
+B.BOT: Ho Chi Minh City (HCMC; Vietnamese: Thành phố Hồ Chí Minh), commonly referred to by its former name Saigon (Vietnamese: Sài Gòn), is the most populous city in Vietnam, with a population of around 10 million in 2023.
+Boss: Hanoi
+B.BOT: Hari (Sanskrit: हरि) is among the primary epithets of the Hindu preserver deity Vishnu, meaning 'the one who takes away' (sins).
+Boss: I know in Vietnam
+B.BOT: The Vietnam War was a conflict in Vietnam, Laos, and Cambodia from 1 November 1955 to the fall of Saigon on 30 April 1975.
+You: ha noi in vietnam
+B.BOT: Hanoi (Vietnamese: Hà Nội ) is the capital and second-most populous city of Vietnam.
+B.BOT: Please repeat or type the command
+B.BOT: Please repeat or type the command
+You: world cup
+B.BOT: Sorry, I can not find the result
+B.BOT: Please repeat or type the command
+You: world cup
+B.BOT: Sorry, I can not find the result
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+B.BOT: Please repeat or type the command
+You: world cup
+B.BOT: Sorry, I can not find the result
+You: euro cup
+B.BOT: The UEFA European Football Championship, less formally the European Championship and informally the Euros, is the primary association football tournament organised by the Union of European Football Associations (UEFA).
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Ho Chi Minh City
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+Boss: Ho Chi Minh City
+B.BOT: Ho Chi Minh City (HCMC; Vietnamese: Thành phố Hồ Chí Minh), commonly referred to by its former name Saigon (Vietnamese: Sài Gòn), is the most populous city in Vietnam, with a population of around 10 million in 2023.
+Boss: American War
+B.BOT: The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army.
+Boss: please open YouTube
+B.BOT: What should I search sir?
+Boss: Britney Spears
+B.BOT: Here is your britney spears on YouTube
+Boss: search Google
+B.BOT: What should I search sir?
+Boss: the weather today
+B.BOT: Here is your the weather today on Google
+Boss: please play some music
+B.BOT: Playing music on Spotify
+Boss: thank you goodbye
+B.BOT: Goodbye Sir
