@@ -406,3 +406,14 @@ Boss: please play some music
 B.BOT: Playing music on Spotify
 Boss: thank you goodbye
 B.BOT: Goodbye Sir
+B.BOT: Good morning Sir
+B.BOT: How can I assist you
+B.BOT: Press listen to talk or type your command
+You: ho chi minh city
+B.BOT: Ho Chi Minh City (HCMC; Vietnamese: Thành phố Hồ Chí Minh), commonly referred to by its former name Saigon (Vietnamese: Sài Gòn), is the most populous city in Vietnam, with a population of around 10 million in 2023.
+Boss: Hanoi
+B.BOT: Hari (Sanskrit: हरि) is among the primary epithets of the Hindu preserver deity Vishnu, meaning 'the one who takes away' (sins).
+Boss: play music
+B.BOT: Playing music on Spotify
+Boss: hey goodbye
+B.BOT: Goodbye Sir

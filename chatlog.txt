@@ -1,23 +1,13 @@
 B.BOT: Good morning Sir
 B.BOT: How can I assist you
 B.BOT: Press listen to talk or type your command
-Boss: Ho Chi Minh City
+You: ho chi minh city
 B.BOT: This is a response to your query: ho chi minh city
 B.BOT: Ho Chi Minh City (HCMC; Vietnamese: Thành phố Hồ Chí Minh), commonly referred to by its former name Saigon (Vietnamese: Sài Gòn), is the most populous city in Vietnam, with a population of around 10 million in 2023.
-Boss: American War
-B.BOT: This is a response to your query: american war
-B.BOT: The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army.
-Boss: please open YouTube
-B.BOT: This is a response to your query: please open youtube
-B.BOT: What should I search sir?
-Boss: Britney Spears
-B.BOT: Here is your britney spears on YouTube
-Boss: search Google
-B.BOT: This is a response to your query: search google
-B.BOT: What should I search sir?
-Boss: the weather today
-B.BOT: Here is your the weather today on Google
-Boss: please play some music
-B.BOT: This is a response to your query: please play some music
+Boss: Hanoi
+B.BOT: This is a response to your query: hanoi
+B.BOT: Hari (Sanskrit: हरि) is among the primary epithets of the Hindu preserver deity Vishnu, meaning 'the one who takes away' (sins).
+Boss: play music
+B.BOT: This is a response to your query: play music
 B.BOT: Playing music on Spotify
 
